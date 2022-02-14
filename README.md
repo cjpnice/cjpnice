@@ -15,17 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  <p>Hi, I'm CHEN.</p>
-  <p>
-      <img src="https://github-readme-stats.vercel.app/api?username=cjpnice&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues" />
-  </p>
-  
-  <p>
-      <img src="https://github-profile-trophy.vercel.app/?username=cjpnice&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=4" />
-  </p>
-  
-  <br>
-  <br>
-</div>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cjpnice&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
 
 
 
