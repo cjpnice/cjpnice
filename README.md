@@ -1,6 +1,5 @@
 # 𝗛𝗲𝗹𝗹𝗼！ 👋第<img src="https://profile-counter.glitch.me/cjpnice/count.svg" /> 个访问者
  <p>Hi, I'm CHEN.</p>
-<img align='right' src='./00.webp' height='140px' loading="lazy">
 
 -
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
@@ -30,8 +29,6 @@
 ![cjpnice's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cjpnice&show_icons=true&hide=issues&line_height=24&include_all_commits=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjpnice&layout=compact&theme=react&card_width=280)
 
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cjpnice&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 <!--
 **cjpnice/cjpnice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
