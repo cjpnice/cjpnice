@@ -31,9 +31,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cjpnice&theme=dark&hide_border=true" />
 </picture>
 <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/cjpnice/cjpnice/assets/images/right.png" />
-
-<!-- metrics 基础资料 -->
-<img src="https://cdn.jsdelivr.net/gh/cjpnice/cjpnice/github-metrics/base.svg" />
+<!-- profile-3d-contrib 3D 贡献图-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/cjpnice/cjpnice/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/cjpnice/cjpnice/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/cjpnice/cjpnice/profile-3d-contrib/profile-night-rainbow.svg" />
+</picture>
+<img src="https://cdn.jsdelivr.net/gh/cjpnice/cjpnice/assets/images/icon.png" /></div>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
